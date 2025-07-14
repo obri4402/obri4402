@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @obri4402
-- 👀 I’m interested in Computer Science stuff
+- 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on my future project
 - 📫 You can connect me with my discord @hailobri
