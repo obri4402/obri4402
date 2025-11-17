@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @obri4402
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning JavaScript
+- 🌱 Currently strengthening my foundation by learning Java as my core programming language.
 - 💞️ I’m looking to collaborate on my future project
 - 📫 You can connect me with my discord @nico4402
 - 😄 Pronouns: Zir/Hir
